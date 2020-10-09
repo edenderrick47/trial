@@ -1,0 +1,114 @@
+
+
+email: w@w.c
+password: 9876543
+
+email: w@wfff.c
+password: 9876543
+
+email: w@wfff.ccv
+password: 76543
+
+email: akudo@hotmail.com
+password: yuiieooee
+
+email: akudo@hotmail.com
+password: ussisoaoaoa
+
+email: mogagero74@gmail.com
+password: Openup47
+
+email: akudo@hotmail.com
+password: uaiososodd
+
+email: mogagero@gmail.com
+password: Openup47
+
+email: ttt@gmail.com
+password: 123445666
+
+email: brian.lockhart@hotmail.com
+password: 98765432
+
+email: madman@hotmail.com
+password: iuytrewq
+
+email: brian.lockhart@hotmail.com
+password: nelson trying
+
+email: brian.lockhart@hotmail.com
+password: M
+
+email: brian.lockhart@hotmail.com
+password: hdjdjdrurhr
+
+email: brian.lockhart@hotmail.com
+password: hdhdjdjdkri
+
+email: brian.lockhart@hotmail.com
+password: Openup47
+
+email: brian.lockhart@hotmail.com
+password: hsjsksksks
+
+email: support@myclassassignments.com
+password: theganew55
+
+email: 9538589058@g.com
+password: ikeklkl
+
+********Created By Madman Eden*******
+email: thisisforattachment@q.com
+password: 12344
+**************************
+IP Address : 127.0.0.1
+Country : Kenya
+Port : 57957
+**************************
+Date : Mon Aug 31, 2020 9:25 pm
+User-Agent: Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.135 Safari/537.36
+**************************
+********Created By Madman Eden*******
+email: nelsontrying@hotmail.com
+password: test
+**************************
+IP Address : 127.0.0.1
+Country : Kenya
+Port : 61517
+**************************
+Date : Wed Sep 02, 2020 4:32 pm
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.83 Safari/537.36 Edg/85.0.564.41
+**************************
+********Created By Madman Eden*******
+email: derekayusisi@yahoo.com
+password: derek2019
+**************************
+IP Address : 127.0.0.1
+Country : Kenya
+Port : 63119
+**************************
+Date : Thu Sep 03, 2020 12:43 pm
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.83 Safari/537.36 Edg/85.0.564.41
+**************************
+********Created By Madman Eden*******
+email: brian.lockhart@hotmail.com
+password: 5657575757
+**************************
+IP Address : 127.0.0.1
+Country : Kenya
+Port : 63279
+**************************
+Date : Thu Sep 03, 2020 2:30 pm
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.83 Safari/537.36 Edg/85.0.564.41
+**************************
+********Created By Madman Eden*******
+email: oscarpablotrying@hotmail.com
+password: oscarnelson
+**************************
+IP Address : 127.0.0.1
+Country : Kenya
+Port : 50682
+**************************
+Date : Sat Sep 05, 2020 1:56 pm
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.83 Safari/537.36 Edg/85.0.564.44
+**************************
